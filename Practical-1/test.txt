@@ -1,0 +1,9 @@
+Hello this text file is a test for the purposes of basic VIM usage and testing github commits from the VM!
+
+
+
+
+
+
+
+:)
